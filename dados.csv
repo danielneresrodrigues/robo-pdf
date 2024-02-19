@@ -1,0 +1,11 @@
+identificador;nome;data_de_nascimento;email;rua;cidade;estado;cep
+1000;Ana Silva;1985-03-12;ana.silva@email.com;Rua das Flores;São Paulo;SP;01234-567
+1001;Carlos Santos;1990-08-25;carlos.santos@email.com;Avenida Central;Rio de Janeiro;RJ;20000-123
+1002;Juliana Oliveira;1988-05-18;juliana.oliveira@email.com;Rua das Palmeiras;Belo Horizonte;MG;30123-456
+1003;Lucas Pereira;1995-11-02;lucas.pereira@email.com;Rua dos Pinheiros;Curitiba;PR;80000-789
+1004;Isabela Rodrigues;1992-09-10;isabela.rodrigues@email.com;Avenida das Acácias;Porto Alegre;RS;90000-234
+1005;André Almeida;1980-12-05;andre.almeida@email.com;Quadra 123;Brasília;DF;70000-567
+1006;Patrícia Costa;1983-07-20;patricia.costa@email.com;Rua dos Coqueiros;Salvador;BA;40000-789
+1007;Felipe Mendes;1998-04-15;felipe.mendes@email.com;Avenida das Mangueiras;Recife;PE;50000-123
+1008;Carolina Lima;1993-02-28;carolina.lima@email.com;Rua das Laranjeiras;Fortaleza;CE;60000-456
+1009;Rafaela Fernandes;1987-06-08;rafaela.fernandes@email.com;Avenida dos Ipês;Belém;PA;66000-789
