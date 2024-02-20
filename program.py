@@ -13,7 +13,7 @@ from datetime import datetime
 from pyhtml2pdf import converter
 
 # Define o caminho da pasta do projeto
-path = '/home/danielneresrodrigues/Documentos/RoboPDF/'
+path = '/home/danielneresrodrigues/Documentos/robo-pdf/'
 
 # Lê o arquivo csv com os dados
 df = pd.read_csv(os.path.join(path, 'dados.csv'), sep=';', encoding='utf-8')
